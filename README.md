@@ -1,16 +1,12 @@
-# anime_quiz
+# Anime_Quiz
 
-A new Flutter project.
+A new Anime_Quiz Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Anime Quiz App 
+* Developed a quiz app focused on the anime Naruto. 
+* Users answer multiple-choice questions about the anime. 
+* Results display users' selections and correct answers, with correct answers highlighted in green and 
+  incorrect ones in red. 
+Technologies Used: Dart, Flutter
